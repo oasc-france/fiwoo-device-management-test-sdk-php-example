@@ -1,0 +1,12 @@
+{
+    "name": "oasc-france/fiwoo-device-management-test-sdk-php-example",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/oasc-france/fiwoo-device-management-test-sdk-php.git"
+        }
+    ],
+    "require": {
+        "oasc-france/fiwoo-device-management-test-sdk-php": "*@dev"
+    }
+}
